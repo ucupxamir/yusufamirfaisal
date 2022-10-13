@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @yusufamirfaisal
-- 👀 I’m interested in build & develop Backend
+- 👀 I’m interested in build & develop Backend System
